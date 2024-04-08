@@ -1,6 +1,5 @@
-
- # <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="horizontal" data-theme="dark" data-vanity="patotricks15"><a class="LI-simple-link" href=''>Gabriel Lucena Lins</a></div>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-lucena-lins/)]  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=gabriel_lins2707@hotmail.com)](gabriel_lins2707@hotmail.com) [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=Portfolio&logoColor=white&link=[https://sites.google.com/view/portfoliogabelucena/in%C3%ADcio](https://sites.google.com/view/portfoliogabelucena/in%C3%ADcio))]
+ # <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="horizontal" data-theme="dark" ><a class="LI-simple-link" href=''>Gabriel Lucena Lins</a></div>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-lucena-lins/)](https://www.linkedin.com/in/gabriel-lucena-lins/) [![Portifolio Badge](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=Portfolio&logoColor=white&link=https://sites.google.com/view/portfoliogabelucena/in%C3%ADcio)](https://sites.google.com/view/portfoliogabelucena/in%C3%ADcio)
 
 ## Bem vindo ao meu perfil!
 
