@@ -8,16 +8,15 @@
 Formado em Gestão da Tecnologia da Informação em 2016, atualmente estou me especializando na área de dados, cursando uma pós graduação em Ciência de Dados.
 ## Experiência com:
 
-- **Business Intelligence**: Construir dashboards personalizados e estabelecer KPI's;
-- **Análises**: Extrair, limpar dados assim como fazer análise exploratória e modelagem.
-- **Banco de Dados**: Fazer queries para Banco de Dados;
-- **Machine Learning**: Desenvolvimento de modelos preditivos para classificação e regressão
-- **Metodologias**: Agile e Scrum
+- **Business Intelligence**: Construir dashboards personalizados e dar clareza aos KPI's;
+- **Análises**: Extração, data cleansing, análise exploratória e modelagem;
+- **Banco de Dados**: Desenvolver e aprimorar queries;
+- **Machine Learning**: Implantação de pequenos modelos preditivos para classificação e regressão;
 
 ## Ferramentas:
 
 - **Linguagem de Programação**: Python
 - **Estatística e Data Mining**: Excel e R
 - **Visualização de Dados**: Power BI e Looker Studio
-- **Banco de Dados**: SQL Server e MySQL
-- **Computação em Nuvem**: AWS
+- **Banco de Dados**: Postgres, SQL Server e MySQL
+- **Computação em Nuvem**: AWS (Redshift, EC2)
